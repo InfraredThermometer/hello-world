@@ -1,2 +1,2 @@
 # hello-world
-My very first program here
+I edited the program to make it better
